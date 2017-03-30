@@ -1,0 +1,31 @@
+*{
+    padding: O;
+    margin: 0;
+}
+#slider{
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+}
+.slide{
+    width: 800px;
+    height: 400px;
+    
+}
+#F1{
+    background-image: url('1.jpg');
+}
+#F2{
+    background-image: url('2.jpg');
+}
+.btn-left{
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+.btn-right{
+    position: absolute;
+    top: 50%;
+    right: 0;
+}

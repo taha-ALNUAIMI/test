@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 2px solid blue;
+}
+
+#relative{
+    height: 500px;
+    width: 500px;
+   margin: 0 auto;
+   position: relative;
+}
+#absolute1{
+    margin: 0 auto;
+    height: 50px;
+    width: 100px;
+    background: red;
+    
+   
+
+  
+  
+}
+#absolute2{
+    position: absolute;
+    height: 50px;
+    width: 100px;
+    background: red;
+    bottom:  0px;
+}
